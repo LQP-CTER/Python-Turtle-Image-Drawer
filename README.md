@@ -52,11 +52,9 @@ python main.py images/example.jpg -c 16
 - **Vẽ bằng Turtle**: Sử dụng thư viện `turtle` của Python để vẽ lại ảnh dựa trên các đường nét SVG.
 
 ## Lưu ý
-- Nếu kích thước ảnh quá lớn, công cụ sẽ tự động điều chỉnh kích thước để phù hợp với màn hình.
+- Nếu kích thước ảnh quá lớn, công cụ sẽ tự động điều chỉnh kích thước để phù hợp với màn hình cũng như thời gian hoàn thành của hình ảnh.
 - Quá trình vẽ có thể mất nhiều thời gian nếu số lượng màu sắc được chọn quá lớn.
 
 ## Hỗ trợ
 Nếu bạn gặp bất kỳ vấn đề nào, vui lòng liên hệ qua email hoặc tạo issue trên GitHub.
 
-## Giấy phép
-Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
